@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserInterfacePractice</string>
+    <string-array name="students">
+        <item>Burr</item>
+        <item>Alisa</item>
+        <item>Tom</item>
+        <item>Hector</item>
+        <item>Travis</item>
+    </string-array>
+</resources>
