@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">UserInterfacePractice</string>
+    <string name="alarm">Alarm</string>
+    <string name="settings">Settings</string>
     <string-array name="students">
         <item>Burr</item>
         <item>Alisa</item>
