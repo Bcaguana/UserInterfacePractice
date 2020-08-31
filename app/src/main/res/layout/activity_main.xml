@@ -24,16 +24,16 @@
         android:text="The Matrix"
         android:id="@+id/checkboxMatrix"
         android:checked="true"
-        android:layout_toRightOf="@+id/checkboxHarry"
-        android:layout_marginLeft="15dp"/>
+        android:layout_toEndOf="@+id/checkboxHarry"
+        android:layout_marginStart="15dp"/>
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Joker"
         android:id="@+id/checkboxJoker"
         android:checked="false"
-        android:layout_toRightOf="@+id/checkboxMatrix"
-        android:layout_marginLeft="15dp" />
+        android:layout_toEndOf="@+id/checkboxMatrix"
+        android:layout_marginStart="15dp" />
 
 
     </RelativeLayout>

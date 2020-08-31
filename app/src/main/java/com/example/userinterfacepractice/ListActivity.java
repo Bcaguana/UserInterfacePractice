@@ -24,7 +24,7 @@ public class ListActivity extends AppCompatActivity {
 
         citiesList = findViewById(R.id.citiesList);
         studentSpinner = findViewById(R.id.studentSpinner);
-
+//        yerrr
 //        Dynamically Set Contents of the Spinner
 //        final ArrayList<String> students = new ArrayList<>();
 //        students.add("Burr");

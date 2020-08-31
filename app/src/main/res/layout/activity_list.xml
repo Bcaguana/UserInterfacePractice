@@ -12,16 +12,12 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
         android:id="@+id/studentSpinner"
-        android:entries="@array/students">
-
-    </Spinner>
+        android:entries="@array/students" />
 
     <ListView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="100dp"
-        android:id="@+id/citiesList">
-
-    </ListView>
+        android:id="@+id/citiesList"/>
 
 </RelativeLayout>
